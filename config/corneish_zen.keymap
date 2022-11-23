@@ -10,10 +10,10 @@
 };
 
 
-#include QWERTY 0
-#include NUMBER 1
-#include SYMBOL 2
-#include PLOVER 3
+#define QWERTY 0
+#define NUMBER 1
+#define SYMBOL 2
+#define PLOVER 3
 
 / {
         keymap {
