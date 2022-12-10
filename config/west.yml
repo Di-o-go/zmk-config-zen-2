@@ -6,7 +6,7 @@ manifest:
       url-base: https://github.com/stites
   projects:
     - name: zmk
-      remote: sites
+      remote: stites
       revision: corne-ish-zen-v2+plover
       import: app/west.yml
   self:
